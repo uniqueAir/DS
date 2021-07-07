@@ -1,4 +1,7 @@
-
+/***
+ *   1.实现了KMP算法
+ *   @author: air
+ ***/
 
 #include<string>
 #include<vector>
